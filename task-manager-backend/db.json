@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "c2d55c2d-0324-479c-90cf-4faa21a51370",
+      "username": "XYZ",
+      "password": "$2b$10$2CAtfETCA5KjrdlRq95d7uxhCDJX09EtAL56fKkfmcEpJxT.4Paa6"
+    },
+    {
+      "id": "068c200d-3916-44f8-9a8f-835d0a27af0a",
+      "username": "ABC",
+      "password": "$2b$10$jhIp5ILaZDZ3MFaRTNoKz.Fw4hK3V5kDBG9DR2LUMcfHOhcHIiD7i"
+    },
+    {
+      "id": "6020d28d-b806-41be-b201-660df62cc151",
+      "username": "abc",
+      "password": "$2b$10$wBiy6mc7PE.c.a0OXjD5hO5htDg56tSD0RUYMSab0.O2gRUKCcja."
+    },
+    {
+      "id": "edc8906e-39f2-4754-8dac-debf19907ff5",
+      "username": "OPI",
+      "password": "$2b$10$58GVa4QxUdm4OMI6iR.5Z.7AWSJzPxE6WxgmxvAQ3USo3m/N5w/hm"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "093a2468-fc14-412d-b23c-796f3b944d76",
+      "userId": "c2d55c2d-0324-479c-90cf-4faa21a51370",
+      "title": "breakfast",
+      "description": "qezrzegezg",
+      "completed": true,
+      "createdAt": "2025-04-13T10:28:15.797Z"
+    },
+    {
+      "id": "7b9008df-d261-40f6-96d3-aeba6040b6de",
+      "userId": "edc8906e-39f2-4754-8dac-debf19907ff5",
+      "title": "AA",
+      "description": "sdzgzgrzhzhzh",
+      "completed": true,
+      "createdAt": "2025-04-13T13:22:12.018Z"
+    }
+  ]
+}
